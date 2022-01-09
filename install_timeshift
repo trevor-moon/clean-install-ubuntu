@@ -1,0 +1,5 @@
+#!/bin/bash
+# install timeshift
+
+sudo apt update
+sudo apt install timeshift -y

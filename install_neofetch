@@ -1,0 +1,5 @@
+#!/bin/bash
+# install neofetch utility
+
+sudo apt update
+sudo apt install neofetch -y

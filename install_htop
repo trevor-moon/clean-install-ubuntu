@@ -1,0 +1,5 @@
+#!/bin/bash
+# install htop utility
+
+sudo apt update
+sudo apt install htop -y
