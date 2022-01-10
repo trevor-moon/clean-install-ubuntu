@@ -1,5 +1,7 @@
 # Clean Ubuntu Install
 
+[![The MIT License](https://img.shields.io/badge/license-MIT-E95420?style=flat)](LICENSE)
+
 Install and setup scripts for fresh Ubuntu-based install
 
 ## Install
@@ -53,3 +55,7 @@ sudo apt install {name} -y
 
 - [ ] Create a `main` script to run all scripts sequentially
 - [ ] Create configuration file to determine which script(s) to run in `main`
+
+## License
+
+[![The MIT License](https://img.shields.io/badge/license-MIT-E95420?style=flat)](LICENSE)
