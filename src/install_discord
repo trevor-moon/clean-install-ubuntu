@@ -1,0 +1,5 @@
+#!/bin/bash
+# install discord
+
+# using snap to support discord updates
+sudo snap install discord
